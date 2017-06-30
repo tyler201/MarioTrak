@@ -20,3 +20,5 @@ Things you shouldn't do:
 1. Delete files and expect the program to not break.
 2. Select the same user more than once in the data entry window. (This will be prevented in the next patch.)
 3. Expect the progrm to look nice in it's early stages.
+
+## Made by Tyler @ Strawberrysoup!
