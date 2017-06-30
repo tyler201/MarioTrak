@@ -1,0 +1,32 @@
+00 : Luigi Circuit : Mushroom Cup : 0 : None
+01 : Moo Moo Meadows : Mushroom Cup : 0 : None
+02 : Mushroom Gorge : Mushroom Cup : 0 : None
+03 : Toad's Factory : Mushroom Cup : 0 : None
+04 : Mario Circuit : Flower Cup : 0 : None
+05 : Coconut Mall : Flower Cup : 0 : None
+06 : DK's Snowboard Cross : Flower Cup : 0 : None
+07 : Wario's Gold Mine : Flower Cup : 0 : None
+08 : Daisy Circuit : Star Cup : 0 : None
+09 : Koopa Cape : Star Cup : 0 : None
+10 : Maple Treeway : Star Cup : 0 : None
+11 : Grumble Volcano : Star Cup : 0 : None
+12 : Dry Dry Ruins : Special Cup : 0 : None
+13 : Moonview Highway : Special Cup : 0 : None
+14 : Bowser's Castle : Special Cup : 0 : None
+15 : Rainbow Road : Special Cup : 0 : None
+16 : GCN Peach Beach : Shell Cup : 0 : None
+17 : DS Yoshi Falls : Shell Cup : 0 : None
+18 : SNES Ghost Valley 2 : Shell Cup : 0 : None
+19 : N64 Mario Raceway : Shell Cup : 0 : None
+20 : N64 Sherbet Land : Banana Cup : 0 : None
+21 : GBA Shy Guy Beach : Banana Cup : 0 : None
+22 : DS Defino Square : Banana Cup : 0 : None
+23 : GCN Waluigi Stadium : Banana Cup : 0 : None
+24 : DS Desert Hills : Leaf Cup : 0 : None
+25 : GBA Bowser Castle 3 : Leaf Cup : 0 : None
+26 : N64 DK's Jungle Parkway : Leaf Cup : 0 : None
+27 : GCN Mario Circuit : Leaf Cup : 0 : None
+28 : SNES Mario Circuit 3 : Lightning Cup : 0 : None
+29 : DS Peach Gardens : Lightning Cup : 0 : None
+20 : GCN DK Mountain : Lightning Cup : 0 : None
+30 : N64 Bowser's Castle : Lightning Cup : 0 : None

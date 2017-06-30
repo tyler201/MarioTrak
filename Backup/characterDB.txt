@@ -1,0 +1,27 @@
+00 : Mario
+01 : Luigi
+02 : Peach
+03 : Daisy
+04 : Yoshi
+05 : Birdo
+06 : Diddy Kong
+07 : Bowser Jr.
+08 : Baby Mario
+09 : Baby Luigi
+10 : Baby Peach
+11 : Baby Daisy
+12 : Toad
+13 : Toadette
+14 : Koopa Troopa
+15 : Dry Bones
+16 : Wario
+17 : Waluigi
+18 : Donkey Kong
+19 : Bowser
+20 : King Boo
+21 : Rosalina
+22 : Funky Kong
+23 : Dry Bowser
+24 : Small Mii
+25 : Medium Mii
+26 : Large Mii
